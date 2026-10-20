@@ -1,0 +1,23 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Variáveis e credenciais
+.env
+.env.*
+
+# ============================================================
+# CREDENCIAIS E TOKENS
+# ============================================================
+
+token_totaltrack.txt
